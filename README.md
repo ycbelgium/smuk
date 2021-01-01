@@ -8,3 +8,8 @@
 - Content marketing
 - Advertising
 - Ecommerce
+
+
+# Focus
+
+- creating new webdesign from scratch
